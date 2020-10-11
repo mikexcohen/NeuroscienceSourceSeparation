@@ -11,4 +11,6 @@ Each lecture had a "theory" session and a "Q&A/code" session.
 
 # Links to the videos
 
-The videos are on this playlist on my YouTube channel. The videos are listed in chronological order. You can watch them in any order you like, but it makes sense to watch them in the order in which they appear.
+The videos are on [this playlist](https://www.youtube.com/playlist?list=PLn0OLiymPak2PX8sAmypP1zuPmchxvz8_) on my YouTube channel. The videos are listed in chronological order. You can watch them in any order you like, but it makes sense to watch them in the order in which they appear.
+
+https://www.youtube.com/playlist?list=PLn0OLiymPak2PX8sAmypP1zuPmchxvz8_
